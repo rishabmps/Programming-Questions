@@ -1,5 +1,5 @@
 /*
-
+Category: Dynamic programming
 Problem Description
 Task. Given an integer n, compute the minimum number of operations needed to obtain the number n starting from the number 1.
 Input Format. The input consists of a single integer 1 ≤ n ≤ 10^6.
